@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")();
+
 
 let n= prompt("Dame los grados en Celsius: ");
 
